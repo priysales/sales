@@ -1,4 +1,4 @@
-﻿country,continent,Sum of lifeExp,Sum of pop,Sum of gdpPercap
+﻿country,continent,lifeExp,pop,gdpPercap
 A. Datum Corporation,Asia,1095334.345,80315.29999999999,659962.0647922999
 A. Datum Corporation,Europe,787910.523,68779.80000000002,486524.9144080198
 A. Datum Corporation,North America,2521737.14,210480.89999999962,1462021.2744982452
