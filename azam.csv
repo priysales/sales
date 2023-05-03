@@ -1,4 +1,5 @@
-﻿Manufacturer,Sum of OrderQty,"parent root,"
+﻿region,Staff_number,parent 
+ root,,
 "Contoso, Ltd",124133,root
 "Fabrikam, Inc.",19599,root
 "Proseware, Inc.",19330,root
